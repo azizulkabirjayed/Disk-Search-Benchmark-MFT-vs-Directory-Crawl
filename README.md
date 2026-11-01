@@ -68,8 +68,8 @@ python project_code.py
 
 
 # Sample Visualizations
-![Visualization 1](./Images/01.png)
-![Visualization 2](./Images/02.png)
-![Visualization 3](./Images/03.png)
-![Visualization 4](./Images/04.png)
+![Visualization 1](./Images/1.png)
+![Visualization 2](./Images/2.png)
+![Visualization 3](./Images/3.png)
+![Visualization 4](./Images/4.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
